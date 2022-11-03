@@ -1,1 +1,1 @@
-# transcriptionWithWhisper
+# transcription-whisper
