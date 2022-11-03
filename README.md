@@ -2,7 +2,7 @@
 Video file transcription(Japanese)
 ## manual
 - need whisper module
-- Execution example
+- Execution example↓
 ~~~
 python transcription.py ./sample_movie/24sec.mp3
 ~~~
